@@ -12,5 +12,9 @@
 >>引用
 >>引用2
 
+```python:コードの挿入
+def main();
+  print("Hello World")
+```
 
 
