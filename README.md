@@ -7,5 +7,7 @@
 
 `インライン表示`
 
+[リンク](https://github.com/naaaaagi/naaaaagi/edit/main/README.md)
+
 
 
